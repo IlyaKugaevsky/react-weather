@@ -7,6 +7,6 @@ var Examples = (props) => {
       <p>Welcome to the examples!</p>
     </div>
   )
-}
+};
 
 module.exports = Examples;
